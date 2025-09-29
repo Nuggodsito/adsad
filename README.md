@@ -38,6 +38,8 @@ El laboratorio fue exitoso. Se logró:
 ✅ Configurar la base de datos MySQL
 ✅ Implementar vistas con Bootstrap usando Laravel UI
 ✅ Ejecutar el servidor en http://localhost:8000
+<img width="1371" height="852" alt="image" src="https://github.com/user-attachments/assets/086c2631-cafb-4d79-9fe6-d148b06407c0" />
+
 
 ## 7. Dificultades y Soluciones
 - Dificultad 1: Versión de PHP incompatible
